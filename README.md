@@ -2,7 +2,7 @@
 
 Fine-tuning a Vision Language Model to convert scanned document images into clean, structured Markdown — complete with LaTeX equations and proper headings.
 
-> **Authors:** [Your Name] · [Umar Zahoor](https://github.com/umar-zahoor)
+> **Authors:** [Jamal Rasool] · [Umar Zahoor](https://github.com/umar-zahoor)
 
 ---
 
