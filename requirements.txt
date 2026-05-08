@@ -1,0 +1,9 @@
+torch
+gradio
+transformers
+peft
+bitsandbytes
+accelerate
+qwen-vl-utils
+einops
+Pillow
